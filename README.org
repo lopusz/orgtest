@@ -1,7 +1,7 @@
 * Issues
-  + *detectors* Lookup new method from Cybozu for tweeets
+  + *[detectors]* Lookup new method from Cybozu for tweeets
    http://shuyo.wordpress.com/2012/05/17/short-text-language-detection-with-infinity-gram/
-  + *detectors* Add tests for language detection.
+  + *[detectors]* Add tests for language detection.
   + *detectors* Add tests for encoding.
   + *detectors* Add option of seed initialization fro Cybozu lang detector
   + *general* Check for ICU automatic detection + decoding facilities
