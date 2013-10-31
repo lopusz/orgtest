@@ -1,7 +1,7 @@
 * Todo
-  + *general* item1
+  + :general: item1
     item text1
-  + *general* wow
+  + *:general:* wow
     this is text
   + *particu* item2
     item text2
