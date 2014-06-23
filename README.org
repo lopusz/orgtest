@@ -1,4 +1,9 @@
 * Issues
+  + Table test
+    | Name | Description |
+    |------+-------------|
+    | John | test desc.  |
+    | Jane | empty desc. |
   + What is a difference between verbatim and code
     =code(call,call,...)=, ~verbatim(verbatim,verbatim,...)~
   + This is verbatim test
