@@ -4,6 +4,7 @@
     |------+-------------|
     | John | test desc.  |
     | Jane | empty desc. |
+    | Alice| full desc.  |
   + What is a difference between verbatim and code
     =code(call,call,...)=, ~verbatim(verbatim,verbatim,...)~
   + This is verbatim test
