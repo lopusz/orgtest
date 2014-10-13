@@ -1,5 +1,6 @@
 * Issues
   + Clojars badge test
+
     [[http://clojars.org/langlab][http://clojars.org/langlab/latest-version.svg]]
   + Table test
     | Name | Description |
