@@ -11,14 +11,18 @@
   + What is a difference between verbatim and code
     =code(call,call,...)=, ~verbatim(verbatim,verbatim,...)~
   + This is verbatim test
+
     #+BEGIN_SRC text
     > ls -1 | less
     > pwd
     #+END_SRC
+  
   + Another code block
+    
     #+BEGIN_SRC clojure
     (+ 2 2)
     #+END_SRC
+  
   + *[detectors]* Lookup new method from Cybozu for tweeets
    http://shuyo.wordpress.com/2012/05/17/short-text-language-detection-with-infinity-gram/
   + *[detectors]* Add tests for language detection.
